@@ -1,0 +1,242 @@
+{
+  "_note": "Real Ireland listings pulled from the connected Indeed MCP tool (search_jobs + get_job_details) for the user's target roles. Descriptions are full where fetched via get_job_details, otherwise a short synthesized blurb. Regenerate by re-running the Indeed search. ingest.ts normalizes + detects sponsorship.",
+  "source": "indeed",
+  "country": "IE",
+  "listings": [
+    {
+      "sourceJobId": "JOBSEARCH_40",
+      "title": "Principal DevOps Engineer - Decision Management Platform",
+      "company": "Mastercard",
+      "location": "Dublin, County Dublin",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-04-01",
+      "url": "https://to.indeed.com/aasvbnql29xk",
+      "description": "Join Mastercard's Services Technology org as a DevOps Principal Engineer for the Decision Management Platform — a real-time decisioning platform processing billions of transactions monthly. Architect and manage public and on-prem cloud infrastructure (containerized and virtualized). Design and optimize CI/CD pipelines for complex distributed systems across global data centres. Champion Infrastructure as Code with Terraform and CloudFormation. Drive observability with Prometheus, Grafana, Druid, Splunk. Requires 8+ years in Software Engineering/DevOps incl. 2+ years technical leadership, strong Linux, deep AWS, Kubernetes/Helm/Docker, Terraform/CloudFormation, CI/CD (GitHub Actions, Jenkins), Python/Bash/Java, FinOps/cost optimization."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_45",
+      "title": "DevOps Engineer",
+      "company": "MiFinity",
+      "location": "Dublin, County Dublin",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-06-29",
+      "url": "https://to.indeed.com/aa6ysgtgbr7c",
+      "description": "MiFinity is a licensed, regulated fintech (MiFinity eWallet) with offices in Dublin, Malta and Belfast. Accelerate our platform migration to AWS ECS using Terraform, GitHub Actions and Datadog. Design and implement our Kubernetes (ECS) platform on AWS, maintain CI/CD pipelines, manage Datadog observability, build self-service developer platforms. Align with ISO27001 and PCI-DSS. Requires 3+ years senior AWS platform/DevOps, strong Kubernetes/ECS, Terraform IaC, Python/Bash, regulated-environment experience (PCI-DSS preferred). Benefits: private healthcare, pension matching, remote work allowance, study/exam leave, continuous development sponsoring further education."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_64",
+      "title": "Site Reliability Engineer - Multicloud Platform",
+      "company": "Workday",
+      "location": "Dublin, County Dublin",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-04-30",
+      "salary_min": 72000,
+      "salary_max": 108000,
+      "url": "https://to.indeed.com/aa4ngsyljp2l",
+      "description": "Workday SRE team ensures reliability and availability of the multicloud platform (AWS, GCP, Azure) built on Kubernetes and CNCF cloud-native tech (Istio, OPA, GoLang, Prometheus, Grafana). Reduce operational toil, build SLIs/SLOs, runbook automation, SLO-gated multi-stage deployment automation. Requires 3+ years SRE in distributed systems on public cloud, strong Kubernetes, Linux, a programming language (GoLang/Python/Ruby, Go preferred), CI/CD and testing. Base pay €72,000–€108,000. Flex Work (≈50% in office each quarter)."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_66",
+      "title": "Staff Site Reliability Engineer",
+      "company": "ServiceNow",
+      "location": "Dublin 2, County Dublin",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-07-16",
+      "url": "https://to.indeed.com/aa4xvmbc999t",
+      "description": "ServiceNow Staff SRE. Prevent repeatable issues using software development, systems engineering and networking; lead stakeholders to improve reliability, scalability and performance through system design; champion automation. Requires 6+ years relevant experience, excellent Linux, coding in Python/Go/Java/Ruby, systems at scale (automation, observability, availability, performance), MySQL/PostgreSQL admin, OpenTelemetry telemetry/monitoring, SLA management. Pluses: DevOps CI/CD (GitLab CI), Kubernetes, Ansible, Azure/GCP/AWS, Chaos engineering, incident response."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_92",
+      "title": "DevSecOps Engineer",
+      "company": "MUFG Investor Services",
+      "location": "Dublin, County Dublin",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-07-14",
+      "url": "https://to.indeed.com/aaptwsk9z9qg",
+      "description": "MUFG Investor Services (division of Mitsubishi UFJ Financial Group, ~$3T assets). Application Security Engineer / DevSecOps who speaks developers' language and thrives in the purple team space. Foster secure-by-design, threat modelling, implement SAST/SCA and scale DAST across application repos, penetration testing, security guidance to engineers. Requires app security (red/blue/purple), DAST (Burp Suite, OWASP ZAP), SAST/SCA (Snyk, Veracode, Checkmarx), Python/JavaScript/.NET/Java, SDLC/agile, GitLab/GitHub, Datadog, Docker. Preferred: financial sector, AWS (WAF, Cognito), IaC/Kubernetes/containers, OIDC/OAuth, CI/CD security jobs."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_94",
+      "title": "AI Security Engineer",
+      "company": "Northern Trust",
+      "location": "Limerick, County Limerick",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-06-04",
+      "url": "https://to.indeed.com/aarhr4gm2wfp",
+      "description": "Northern Trust (Fortune 500) Global Threat Technology team. Deliver AI-enabled engineering, cyber automation and DevSecOps transformation within Security Operations, and support Azure security engineering and cloud infrastructure. Build/operationalize AI agents and automation; automate cloud deployments; scalable log ingestion/data pipelines; drive IaC (Terraform, ARM Templates); implement CI/CD; mentor juniors; implement Azure security (Security Center, Key Vault). Requires hands-on Azure (Compute, Networking, Storage, Security, Monitoring), Terraform/ARM IaC, CI/CD, DevOps tooling (Git, Ansible, Docker), containerization and AKS. Based in Limerick."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_97",
+      "title": "Senior AWS Engineer",
+      "company": "Version 1",
+      "location": "Dublin, County Dublin",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-07-01",
+      "salary_min": 75000,
+      "salary_max": 87500,
+      "url": "https://to.indeed.com/aafrkl9jdm4t",
+      "description": "Version 1 (UK & Ireland premier AWS/Microsoft/Oracle partner). Design, build and maintain cloud-native apps using AWS serverless (Lambda, API Gateway, DynamoDB, SQS, Cognito, CloudWatch). Architect and support regulated multi-tenant EKS/Kubernetes clusters. IaC with AWS CDK/Terraform/CloudFormation, Helm. CI/CD with GitHub Actions. Python/Bash, TypeScript/React, REST/GraphQL, microservices/event-driven, TDD, DevSecOps secure-by-design. Salary €75,000–€87,500, profit share, pension matching, private healthcare, incentivised AWS/Microsoft/Oracle certifications. Hybrid."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_89",
+      "title": "Platform Engineer - Python",
+      "company": "Millennium Management",
+      "location": "Dublin, County Dublin",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-06-23",
+      "url": "https://to.indeed.com/aahcjyxykvxr",
+      "description": "Millennium (global alternative investment firm). Platform Engineer on the WorldQuant Aligned Infrastructure team building systems that power quantitative research and production workflows. Hands-on software engineering writing production-quality Python (some C++), partnering with quants. Requires strong software engineering fundamentals, advanced Python, strong data structures & algorithms, advanced Linux, collaborative mindset. Plus: C++, quantitative finance, scientific computing, performance-sensitive systems."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_46",
+      "title": "DevOps Engineer",
+      "company": "iDirect",
+      "location": "Killarney, County Kerry",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-07-10",
+      "url": "https://to.indeed.com/aajpd2c9tkrc",
+      "description": "DevOps Engineer at iDirect (Killarney). Build and operate CI/CD pipelines and cloud infrastructure; containers, automation and IaC for a satellite communications platform."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_47",
+      "title": "Platform Engineering Lead",
+      "company": "BoyleSports",
+      "location": "Dundalk, County Louth",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-07-16",
+      "url": "https://to.indeed.com/aa2x8tnbpqfp",
+      "description": "Platform Engineering Lead at BoyleSports (Dundalk). Lead platform engineering, cloud infrastructure, Kubernetes, CI/CD and developer enablement for a high-traffic betting platform."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_48",
+      "title": "Cloud Security Architect",
+      "company": "BoyleSports",
+      "location": "Dundalk, County Louth",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-07-16",
+      "url": "https://to.indeed.com/aasbfhjlmx8x",
+      "description": "Cloud Security Architect at BoyleSports (Dundalk). Design secure cloud architecture, IAM, DevSecOps controls, compliance and threat modelling across cloud infrastructure."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_53",
+      "title": "Senior Cloud Engineer",
+      "company": "Sprinklr",
+      "location": "Dublin, County Dublin",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-05-14",
+      "url": "https://to.indeed.com/aapk9nt6txlt",
+      "description": "Senior Cloud Engineer at Sprinklr (Dublin). Build and operate cloud infrastructure, Kubernetes, CI/CD, IaC and observability for a global AI-driven customer experience platform."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_62",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Cpl",
+      "location": "Galway, County Galway",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-06-26",
+      "url": "https://to.indeed.com/aarlvtm2npmb",
+      "description": "Senior Site Reliability Engineer (Galway) via Cpl recruitment. SRE for a distributed platform: reliability, observability, automation, Kubernetes, CI/CD."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_84",
+      "title": "Platform Engineer",
+      "company": "Smartbox Group",
+      "location": "Dublin, County Dublin",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-06-29",
+      "url": "https://to.indeed.com/aaz9jjcmjtdp",
+      "description": "Platform Engineer at Smartbox Group (Dublin). Build and maintain cloud platform, Kubernetes, CI/CD pipelines, IaC and developer tooling."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_90",
+      "title": "DevSecOps Engineer",
+      "company": "Holafly",
+      "location": "Dublin, County Dublin",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-05-01",
+      "url": "https://to.indeed.com/aanzgqph2bjb",
+      "description": "DevSecOps Engineer at Holafly (Dublin, eSIM scale-up). Embed security into CI/CD, cloud infrastructure hardening, SAST/DAST, IaC and container security."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_93",
+      "title": "DevOps Engineer III",
+      "company": "Everseen",
+      "location": "Cork, County Cork",
+      "is_remote": false,
+      "job_type": "Permanent",
+      "posted": "2026-06-23",
+      "url": "https://to.indeed.com/aap672vh48zv",
+      "description": "DevOps Engineer III at Everseen (Cork, AI/computer-vision). Build CI/CD, Kubernetes, cloud infrastructure and IaC for a distributed AI platform."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_95",
+      "title": "Lead DevOps Engineer",
+      "company": "PGIM",
+      "location": "Letterkenny, County Donegal",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-06-25",
+      "url": "https://to.indeed.com/aakyfg2x98qp",
+      "description": "Lead DevOps Engineer at PGIM Ireland (Letterkenny, Prudential's asset management). Lead CI/CD, cloud infrastructure, automation and IaC for financial systems."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_98",
+      "title": "AWS Architect",
+      "company": "Version 1",
+      "location": "Dublin, County Dublin",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-07-01",
+      "url": "https://to.indeed.com/aapty4fhzstn",
+      "description": "AWS Architect at Version 1 (Dublin). Architect AWS cloud solutions, EKS/Kubernetes, IaC (Terraform/CDK), CI/CD and DevSecOps for regulated enterprise clients. Incentivised AWS certifications, hybrid."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_61",
+      "title": "Site Reliability Engineer",
+      "company": "Celtic Careers",
+      "location": "Remote",
+      "is_remote": true,
+      "job_type": "Full-time",
+      "posted": "2026-07-15",
+      "url": "https://to.indeed.com/aawbpl9rpxpz",
+      "description": "Site Reliability Engineer (Remote, Ireland) via Celtic Careers recruitment. SRE for reliability, observability, automation, Kubernetes and CI/CD."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_65",
+      "title": "Site Reliability Engineer III",
+      "company": "UKG",
+      "location": "Kilkenny, County Kilkenny",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-07-03",
+      "url": "https://to.indeed.com/aa24ygndhtct",
+      "description": "Site Reliability Engineer III at UKG (Kilkenny). Ensure reliability and scalability of HR/workforce SaaS: observability, automation, Kubernetes, cloud and CI/CD."
+    },
+    {
+      "sourceJobId": "JOBSEARCH_99",
+      "title": "Lead Software Engineer",
+      "company": "Mastercard",
+      "location": "Dublin, County Dublin",
+      "is_remote": false,
+      "job_type": "Full-time",
+      "posted": "2026-06-17",
+      "url": "https://to.indeed.com/aa4lbhk7dlrr",
+      "description": "Lead Software Engineer at Mastercard (Dublin). Build and lead high-scale payment services; cloud-native architecture, CI/CD, microservices, and platform reliability."
+    }
+  ]
+}
